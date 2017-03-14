@@ -60,8 +60,8 @@
     <element xsi:type="archimate:ApplicationComponent" id="fc626de6" name="Aplicações Gestão"/>
     <element xsi:type="archimate:ApplicationService" id="937446f8" name="Serviço Bank Gateway"/>
     <element xsi:type="archimate:ApplicationService" id="8d1b518f" name="Serviço cobrança"/>
-    <element xsi:type="archimate:ApplicationService" id="9a216dc3" name="Serviço Validar Informação"/>
-    <element xsi:type="archimate:ApplicationService" id="2c31fa1e" name="Application Service"/>
+    <element xsi:type="archimate:ApplicationService" id="9a216dc3" name="Serviço Validar NIB"/>
+    <element xsi:type="archimate:ApplicationService" id="2c31fa1e" name="Serviços de Aplicações Bancárias"/>
     <element xsi:type="archimate:ApplicationService" id="70f677b2" name="Serviço Bank Gateway"/>
     <element xsi:type="archimate:ApplicationInterface" id="e4ab1c90" name="MyTGuide.com/API"/>
   </folder>
