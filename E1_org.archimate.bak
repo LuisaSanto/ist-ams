@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Org" id="fb278c69" version="3.1.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="fb278c69" version="3.1.1">
   <folder name="Business" id="7b928796" type="business">
     <element xsi:type="archimate:BusinessActor" id="9df177a4" name="MyTguide"/>
     <element xsi:type="archimate:Location" id="c921094e" name="DAF"/>
