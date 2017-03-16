@@ -60,7 +60,7 @@
     <element xsi:type="archimate:ApplicationInterface" id="6107bcd4" name="MyTGuideClient App"/>
     <element xsi:type="archimate:ApplicationComponent" id="6de66689" name="Gestor de Clientes"/>
     <element xsi:type="archimate:ApplicationService" id="c420302f" name="Pesquisa Informação app"/>
-    <element xsi:type="archimate:ApplicationService" id="aecf722e" name="Reserva de visitas app"/>
+    <element xsi:type="archimate:ApplicationService" id="aecf722e" name="Reserva de visitas"/>
     <element xsi:type="archimate:ApplicationService" id="fcb4beda" name="Serviços de Aplicações de Registo e Reservas"/>
     <element xsi:type="archimate:ApplicationComponent" id="8c052aad" name="Gestor de Visitas"/>
     <element xsi:type="archimate:ApplicationInterface" id="627994c1" name="MyTGuide.com/API"/>
@@ -76,8 +76,8 @@
     <element xsi:type="archimate:ApplicationService" id="ee15cf89" name="Serviço Reserva de visitas"/>
     <element xsi:type="archimate:ApplicationService" id="5540522d" name="Serviço Pesquisa Informação"/>
     <element xsi:type="archimate:ApplicationService" id="b3e8aa1f" name="Serviço de Registo"/>
-    <element xsi:type="archimate:ApplicationService" id="215cbeed" name="Validação NIB app"/>
-    <element xsi:type="archimate:ApplicationService" id="31d08418" name="Cobrança app"/>
+    <element xsi:type="archimate:ApplicationService" id="215cbeed" name="Validação NIB"/>
+    <element xsi:type="archimate:ApplicationService" id="31d08418" name="Cobrança"/>
     <element xsi:type="archimate:ApplicationService" id="48dfea92" name="Disponibilização de Visitas"/>
     <element xsi:type="archimate:ApplicationService" id="9363d7e6" name="Gestão de Clientes"/>
     <element xsi:type="archimate:ApplicationService" id="a98106e2" name="Pesquisa de Guias"/>
@@ -279,7 +279,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="a5119b62" source="7e72d8f2" target="cbbbb4bd" relationship="3e703075"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="209db849" textAlignment="2" targetConnections="305ee1d5" archimateElement="7ad7b36e">
-        <bounds x="396" y="420" width="120" height="55"/>
+        <bounds x="396" y="432" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="f71bdb7e" source="209db849" target="49091641" relationship="9129275c"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="f781476d" textAlignment="2" archimateElement="2a2d6de3">
