@@ -391,7 +391,7 @@
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="0e6a7f61" font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="2" archimateElement="220c6ec3">
-          <bounds x="168" y="24" width="504" height="120"/>
+          <bounds x="120" y="24" width="504" height="120"/>
           <sourceConnection xsi:type="archimate:Connection" id="a6cfdb50" source="0e6a7f61" target="ef24b760" relationship="62de5025"/>
           <sourceConnection xsi:type="archimate:Connection" id="f7d19259" source="0e6a7f61" target="fb573590" relationship="5d8fef29"/>
           <sourceConnection xsi:type="archimate:Connection" id="4bdae65d" source="0e6a7f61" target="124e5f9d" relationship="742d8da1"/>

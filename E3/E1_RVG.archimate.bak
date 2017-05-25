@@ -42,7 +42,7 @@
     <element xsi:type="archimate:BusinessProcess" id="962509ba" name="Reserva"/>
     <element xsi:type="archimate:BusinessProcess" id="50bb14e3" name="Reserva"/>
     <element xsi:type="archimate:BusinessProcess" id="ea4912ee" name="Confirmação"/>
-    <element xsi:type="archimate:BusinessActor" id="ea29d483" name="Utilizador"/>
+    <element xsi:type="archimate:BusinessActor" id="ea29d483" name="Client"/>
     <element xsi:type="archimate:BusinessRole" id="fe2121cb" name="Client"/>
     <element xsi:type="archimate:BusinessEvent" id="b758b059" name="Cliente executa a app pela primeira vez"/>
     <element xsi:type="archimate:BusinessEvent" id="90271209" name="Cliente consulta visitas disponiveis "/>
@@ -52,7 +52,7 @@
     <element xsi:type="archimate:BusinessRole" id="141130b2" name="Business Role"/>
     <element xsi:type="archimate:BusinessCollaboration" id="8d8dfc8d" name="Business Collaboration"/>
     <element xsi:type="archimate:BusinessCollaboration" id="7440821a" name="Business Collaboration"/>
-    <element xsi:type="archimate:BusinessRole" id="20f42eb6" name="Cliente"/>
+    <element xsi:type="archimate:BusinessRole" id="20f42eb6" name="Procurar visita"/>
     <element xsi:type="archimate:BusinessService" id="99e9b924" name="Avaliação (copy)"/>
     <element xsi:type="archimate:BusinessService" id="78df682f" name="Serviço de aluguer Hotspot"/>
     <element xsi:type="archimate:BusinessService" id="5cafc59e" name="Serviço de Informações sobre guias turisticos"/>
