@@ -1,4 +1,4 @@
-# auxiliar files used by EA causing the merge conflicts*.ldb*.LDBE3/*.ldb# temporary
+*.bak# auxiliar files used by EA causing the merge conflicts*.ldb*.LDBE3/*.ldb# temporary
 *.tmp
 ~$*.doc*
 ~$*.xls*
